@@ -9,3 +9,14 @@ venv/
 node_modules/
 dist/
 out/
+.log
+.DS_Store
+.env
+.venv/
+.next/
+.yarn/
+.vite/
+venv/
+node_modules/
+dist/
+out/
